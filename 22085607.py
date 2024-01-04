@@ -128,4 +128,4 @@ for ax in combined_subplot:
     ax.spines[['top', 'bottom', 'left', 'right']].set_visible(False)
 
 
-plt.savefig('2085607.png', dpi=300)
+plt.savefig('22085607.png', dpi=300)
